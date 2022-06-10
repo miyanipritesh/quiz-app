@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:shimmer="http://schemas.android.com/tools"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".Activity.WithdrawRequest">
+
+    <include layout="@layout/toolbar" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="12dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/public_medium"
+                        android:gravity="center_vertical"
+                        android:text="@string/select_payment_type"
+                        android:textColor="@color/text_color_darkGray"
+                        android:textSize="16dp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/round_bor_darkgray">
+
+                        <RadioGroup
+                            android:id="@+id/radioGroup"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="10dp">
+
+                            <RadioButton
+                                android:id="@+id/rbOne"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:buttonTint="@color/blue"
+                                android:fontFamily="@font/public_medium"
+                                android:textColor="@color/text_gray"
+                                android:textSize="@dimen/text_16"
+                                android:visibility="gone" />
+
+                            <RadioButton
+                                android:id="@+id/rbTwo"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:buttonTint="@color/blue"
+                                android:checked="false"
+                                android:fontFamily="@font/public_medium"
+                                android:textColor="@color/text_gray"
+                                android:textSize="@dimen/text_16"
+                                android:visibility="gone" />
+
+                            <RadioButton
+                                android:id="@+id/rbThree"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:buttonTint="@color/blue"
+                                android:checked="false"
+                                android:fontFamily="@font/public_medium"
+                                android:textColor="@color/text_gray"
+                                android:textSize="@dimen/text_16"
+                                android:visibility="gone" />
+
+                            <RadioButton
+                                android:id="@+id/rbFour"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:buttonTint="@color/blue"
+                                android:checked="false"
+                                android:fontFamily="@font/public_medium"
+                                android:textColor="@color/text_gray"
+                                android:textSize="@dimen/text_16"
+                                android:visibility="gone" />
+
+                            <RadioButton
+                                android:id="@+id/rbFive"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:buttonTint="@color/blue"
+                                android:checked="false"
+                                android:fontFamily="@font/public_medium"
+                                android:textColor="@color/text_gray"
+                                android:textSize="@dimen/text_16"
+                                android:visibility="gone" />
+
+                        </RadioGroup>
+
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:fontFamily="@font/public_medium"
+                        android:gravity="center_vertical"
+                        android:text="@string/enter_payment_details"
+                        android:textColor="@color/text_color_darkGray"
+                        android:textSize="16dp" />
+
+                    <EditText
+                        android:id="@+id/etPaymentDetails"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/round_bor_darkgray"
+                        android:gravity="center_vertical|top"
+                        android:imeOptions="actionDone"
+                        android:inputType="textMultiLine"
+                        android:minHeight="180dp"
+                        android:padding="8dp"
+                        android:textColor="@color/text_gray"
+                        android:textSize="@dimen/default_texts" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/txtSubmit"
+                            android:layout_width="180dp"
+                            android:layout_height="45dp"
+                            android:background="@drawable/round_bg_r5_white"
+                            android:backgroundTint="@color/colorPrimary"
+                            android:fontFamily="@font/public_medium"
+                            android:gravity="center"
+                            android:text="@string/submit"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/text_16" />
+
+                    </LinearLayout>
+
+                    <!-- Template View for native ad -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp"
+                        android:orientation="vertical">
+
+                        <com.facebook.ads.NativeAdLayout
+                            android:id="@+id/fbNativeTemplate"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="5dp"
+                            android:visibility="gone" />
+
+                        <!--  This is your template view -->
+                        <com.google.android.ads.nativetemplates.TemplateView
+                            android:id="@+id/nativeTemplate"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:visibility="gone"
+                            app:gnt_template_type="@layout/gnt_medium_template_view" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <!--Main Activity-->
+    <string name="Play_Quiz">Play Quiz</string>
+    <string name="Leaderboard">Leaderboard</string>
+    <string name="Instruction">Instruction</string>
+    <string name="User_Profile">User Profile</string>
+    <string name="Settings">Settings</string>
+    <string name="do_you_want_to_exit">Do you want to exit ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!--Welcome START-->
+    <string name="sorry_not_connected_to_internet">Sorry! Not connected to internet.</string>
+    <string name="welcome_slides">Home Screen</string>
+    <string name="skip">Skip</string>
+    <string name="start">Get START</string>
+    <string name="slide_1_title">Online Quiz</string>
+    <string name="slide_1_desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.</string>
+    <string name="slide_2_title">Win prizes</string>
+    <string name="slide_2_desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.</string>
+    <string name="welcome_to_learning_app">Welcome to Quiz App</string>
+    <string name="Lorem_Ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industry standard dummy text ever since the 1500s.</string>
+    <!--Welcome END-->
+
+    <!--Network and Permission-->
+    <string name="permission_desc">Now we need your permission to continue use the application perfectly</string>
+    <string name="permission_title">Everything is okay.</string>
+    <string name="isRTL">true</string>
+    <string name="internet_error">Network connection error!!!</string>
+    <string name="permission_necessary">Permission Necessary</string>
+    <string name="storage_permission_is_necessary_to_wrote_event">Storage permission is necessary to read and write event</string>
+
+    <!--Login, Register & OTP verification details START-->
+    <string name="hello">Hello,</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="email_address">Email Address</string>
+    <string name="email_address_with_star">Email ID *</string>
+    <string name="password">Password *</string>
+    <string name="userName">Username *</string>
+    <string name="phone_number">Phone Number *</string>
+    <string name="enter_email">Enter email.</string>
+    <string name="enter_password">Enter password.</string>
+    <string name="enter_phone_number">Enter phone number.</string>
+    <string name="enter_username">Enter username.</string>
+    <string name="forgot_password">Forgot Your Password ?</string>
+    <string name="okay">Okay!</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_have_an_account">Already have an Account ?</string>
+    <string name="do_not_have_an_account">Don\'t have an Account ?</string>
+    <string name="or_Login_using_Social_Media">Or Login using Social Media</string>
+    <string name="register">Register</string>
+    <string name="register_now">Register Now</string>
+    <string name="sign_in_with_mobile_no">Sign in with Mobile number</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password_title">Forgot Password</string>
+    <string name="new_password_have_been_send_to_register_email_address">New password have been send to register email address</string>
+    <string name="mobile_no">Mobile number</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="enter_your_mobile_no">Enter Your Mobile number</string>
+    <string name="you_will_receive_a_4_digit_code_to_verify_next">You will receive a 4 digit code to \n verify next.</string>
+    <string name="send_otp">SEND OTP</string>
+    <string name="enter_otp_code_to_sent_to_mobile_no">Enter OTP code to sent \n to Mobile Number.</string>
+    <string name="verify_and_proceed">VERIFY &amp; PROCEED</string>
+    <string name="send">SEND</string>
+    <!--Login, Register & OTP verification details END-->
+
+    <!--Question and Level START-->
+    <string name="home">Home</string>
+    <string name="answer_it">Answer It</string>
+    <string name="play_next_level">Play Next Level</string>
+    <string name="select_level">Select Level</string>
+    <string name="category">Category</string>
+    <string name="questions">Questions</string>
+    <string name="question">Question</string>
+    <string name="right">Right</string>
+    <string name="wrong">Wrong</string>
+    <string name="please_select_any_option">Please, select any option.</string>
+    <string name="Share_result">Share Result</string>
+    <string name="Statistics">Statistics</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="Rank_of_medal">Rank of Medal</string>
+    <string name="Recent_quiz">Recent Quiz</string>
+    <string name="next">Next</string>
+    <string name="total_score">Total Score</string>
+    <string name="finish">Finish</string>
+    <string name="incorrect_answers">Incorrect Answers</string>
+    <string name="correct_answers">Correct Answers</string>
+    <string name="attended_questions">Attended Questions</string>
+    <string name="correct_answer_status">Well done! your answer is correct.</string>
+    <string name="wrong_answer_status">Oops! your answer is wrong.</string>
+    <string name="time_over_status">Time is over, you can\'t answer the question/s.</string>
+    <string name="level_complete">Congratulations! \nYou have completed level.</string>
+    <string name="level_incomplete">Oops!!! \nYou have not completed level.</string>
+    <string name="point_earned">Point Earned.</string>
+    <string name="rank">Rank</string>
+    <string name="coins">Coins</string>
+    <string name="score">Score</string>
+    <string name="let_me_recommend_you_this_application">Let me recommend you this application : </string>
+    <string name="my_scorecard">My scorecard</string>
+    <string name="level_rank">Level Rank : </string>
+    <string name="name">Name : </string>
+    <string name="level_number">Level : </string>
+    <string name="level_score">Level Score : </string>
+    <string name="share_with">Share with</string>
+    <!--Question and Level END-->
+
+    <!--Payment Activity START-->
+    <string name="payment_methods">Payment Methods</string>
+    <string name="choose_a_payment_methods_to_pay">Choose a payment Methods to pay</string>
+    <string name="pay_with">Pay with</string>
+    <string name="Continue">Continue</string>
+    <string name="paypal">PayPal</string>
+    <string name="razorpay">RazorPay</string>
+    <string name="paytm">Paytm</string>
+    <string name="upi">UPI</string>
+    <string name="flutterwave">Flutterwave</string>
+    <string name="payumoney">PayUMoney</string>
+    <!--Payment Activity END-->
+
+    <!-- youtube START -->
+    <string name="youtube_api_key">AIzaSyAaJX_VFOEO48pVL-YidlEaJgRp9EmDaAw</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s).</string>
+    <string name="loading_video">Loading video...</string>
+    <!-- youtube END -->
+
+    <!-- Settings START -->
+    <string name="app_language">App Language</string>
+    <string name="push_notification">Enable Push Notification</string>
+    <string name="rate_app">Rate App</string>
+    <string name="share">Share</string>
+    <string name="share_app">Share App</string>
+    <string name="about_app">About App</string>
+    <string name="privacy">Privacy</string>
+    <string name="profile">Profile</string>
+    <string name="Enable_Sound">Enable Sound</string>
+    <string name="Enable_Vibration">Enable Vibration</string>
+    <string name="logout">Logout</string>
+    <string name="log_in">Login</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="company">Company</string>
+    <string name="contact">Contact</string>
+    <string name="website">Website</string>
+    <string name="are_you_sure_you_want_to_logout">Are you sure you want to Logout ?</string>
+    <string name="about_us">About Us</string>
+    <string name="language_already_selected">Language already selected!</string>
+    <string name="today">Today</string>
+    <string name="all">All</string>
+    <string name="month">Month</string>
+    <!-- Settings END -->
+
+    <!--Withdrawal START-->
+    <string name="Withdrawal">Withdrawal</string>
+    <string name="withdraw_request">Withdraw Request</string>
+    <string name="points">Points</string>
+    <string name="withdrawal_history">Withdrawal History</string>
+    <string name="minimum">*minimum</string>
+    <string name="minimum_points_required">points required for withdrawal request.</string>
+    <string name="withdraw_request_warning">Sorry, you do not have enough points for withdrawal request.</string>
+    <string name="select_payment_type">Select Payment Type</string>
+    <string name="paytm_withdraw"> Paytm</string>
+    <string name="paypal_withdraw"> Paypal</string>
+    <string name="wiretransfer_bank_details">WireTransfer / Bank Details</string>
+    <string name="enter_payment_details">Enter Payment Details</string>
+    <string name="submit">Submit</string>
+    <string name="please_select_payment_method">Please select payment method.</string>
+    <string name="please_enter_payment_details">Please enter payment details.</string>
+    <!--Withdrawal END-->
+
+    <string name="viewAll">View All</string>
+    <string name="see_all">SEE ALL</string>
+    <string name="show_more">SHOW MORE</string>
+    <string name="show_less">SHOW LESS</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+    <string name="Submit">SUBMIT</string>
+    <string name="reset">RESET</string>
+    <string name="level">Level</string>
+    <string name="duration">Duration</string>
+    <string name="Term_and_conditions">Term and Conditions</string>
+    <string name="pending">Pending</string>
+    <string name="completed">Completed</string>
+    <string name="apply">APPLY</string>
+    <string name="price">Price</string>
+
+</resources>

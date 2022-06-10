@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">प्रश्नोत्तरी ऐप</string>
+
+    <!--Main Activity-->
+    <string name="Play_Quiz">प्रश्नोत्तरी खेलें</string>
+    <string name="Leaderboard">लीडरबोर्ड</string>
+    <string name="Instruction">अनुदेश</string>
+    <string name="User_Profile">उपयोगकर्ता प्रोफ़ाइल</string>
+    <string name="Settings">समायोजन</string>
+    <string name="do_you_want_to_exit">क्या आपको बाहर निकलना है ?</string>
+    <string name="yes">हाँ।</string>
+    <string name="no">नहीं।</string>
+
+    <!--Welcome START-->
+    <string name="sorry_not_connected_to_internet">माफ़ करना! इंटरनेट से कनेक्ट नहीं है।</string>
+    <string name="welcome_slides">होम स्क्रीन</string>
+    <string name="skip">छोड़ें</string>
+    <string name="start">शुरू करो</string>
+    <string name="slide_1_title">ऑनलाइन प्रश्नोत्तरी</string>
+    <string name="slide_1_desc">लोरेम इप्सम प्रिंटिंग और टाइपसेटिंग उद्योग का केवल डमी टेक्स्ट है। लोरेम इप्सम 1500 के दशक से उद्योग का मानक डमी टेक्स्ट रहा है।</string>
+    <string name="slide_2_title">पुरस्कार जीते</string>
+    <string name="slide_2_desc">लोरेम इप्सम प्रिंटिंग और टाइपसेटिंग उद्योग का केवल डमी टेक्स्ट है। लोरेम इप्सम 1500 के दशक से उद्योग का मानक डमी टेक्स्ट रहा है।</string>
+    <string name="welcome_to_learning_app">प्रश्नोत्तरी ऐप में आपका स्वागत है</string>
+    <string name="Lorem_Ipsum">लोरेम इप्सम प्रिंटिंग और टाइपसेटिंग उद्योग का केवल डमी टेक्स्ट है। लोरेम इप्सम 1500 के दशक से उद्योग का मानक डमी टेक्स्ट रहा है।</string>
+    <!--Welcome END-->
+
+    <!--Network and Permission-->
+    <string name="permission_desc">अब हमें एप्लिकेशन का पूरी तरह से उपयोग जारी रखने के लिए आपकी अनुमति की आवश्यकता है।</string>
+    <string name="permission_title">सब कुछ ठीक है।</string>
+    <string name="isRTL">सच</string>
+    <string name="internet_error">नेटवर्क कनेक्शन त्रुटि!</string>
+    <string name="permission_necessary">अनुमति आवश्यक</string>
+    <string name="storage_permission_is_necessary_to_wrote_event">ईवेंट को पढ़ने और लिखने के लिए संग्रहण अनुमति आवश्यक है।</string>
+
+    <!--Login, Register & OTP verification details START-->
+    <string name="hello">नमस्ते,</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="email">ईमेल</string>
+    <string name="email_address">ईमेल पता</string>
+    <string name="email_address_with_star">ईमेल आईडी *</string>
+    <string name="password">कुंजिका *</string>
+    <string name="userName">उपयोगकर्ता नाम *</string>
+    <string name="phone_number">फ़ोन नंबर *</string>
+    <string name="enter_email">ईमेल दर्ज करें।</string>
+    <string name="enter_password">पास वर्ड दर्ज करें।</string>
+    <string name="enter_phone_number">फोन नंबर दर्ज।</string>
+    <string name="enter_username">उपयोगकर्ता नाम दर्ज करें।</string>
+    <string name="forgot_password">क्या आप पासवर्ड भूल गए ?</string>
+    <string name="okay">ठीक है!</string>
+    <string name="please_wait">कृपया प्रतीक्षा करें...</string>
+    <string name="sign_in">साइन इन करें</string>
+    <string name="sign_up">साइन अप करें</string>
+    <string name="already_have_an_account">पहले से ही एक खाता है ?</string>
+    <string name="do_not_have_an_account">खाता नहीं है?</string>
+    <string name="or_Login_using_Social_Media">या सोशल मीडिया का उपयोग करके लॉगिन करें</string>
+    <string name="register">रजिस्टर करें</string>
+    <string name="register_now">अभी पंजीकरण करें</string>
+    <string name="sign_in_with_mobile_no">मोबाइल नंबर के साथ साइन इन करें</string>
+    <string name="google">गूगल</string>
+    <string name="facebook">फेसबुक</string>
+    <string name="full_name">पूरा नाम</string>
+    <string name="confirm_password">पासवर्ड की पुष्टि कीजिये</string>
+    <string name="forgot_password_title">पासवर्ड भूल गए ?</string>
+    <string name="new_password_have_been_send_to_register_email_address">ईमेल पता पंजीकृत करने के लिए नया पासवर्ड भेजा गया है।</string>
+    <string name="mobile_no">मोबाइल नंबर</string>
+    <string name="otp_verification">ओटीपी सत्यापन</string>
+    <string name="enter_your_mobile_no">अपना मोबाइल नंबर दर्ज करें</string>
+    <string name="you_will_receive_a_4_digit_code_to_verify_next">आपको अगले सत्यापित करने के लिए एक 4 अंकों का कोड प्राप्त होगा।</string>
+    <string name="send_otp">OTP भेजें</string>
+    <string name="enter_otp_code_to_sent_to_mobile_no">मोबाइल नंबर पर \n भेजने के लिए ओटीपी कोड दर्ज करें</string>
+    <string name="verify_and_proceed">सत्यापित करें और आगे बढ़ें</string>
+    <string name="send">भेजें।</string>
+    <!--Login, Register & OTP verification details END-->
+
+    <!--Question and Level START-->
+    <string name="home">घर</string>
+    <string name="answer_it">इसका जवाब दो</string>
+    <string name="play_next_level">अगला स्तर खेलें</string>
+    <string name="select_level">स्तर चुनें</string>
+    <string name="category">वर्ग</string>
+    <string name="questions">प्रश्न</string>
+    <string name="question">सवाल</string>
+    <string name="right">सही</string>
+    <string name="wrong">गलत</string>
+    <string name="please_select_any_option">कृपया कोई भी विकल्प चुनें।</string>
+    <string name="Share_result">परिणाम साझा करें</string>
+    <string name="Statistics">आंकड़े</string>
+    <string name="leaderboard">लीडरबोर्ड</string>
+    <string name="Rank_of_medal">पदक की रैंक</string>
+    <string name="Recent_quiz">हाल की प्रश्नोत्तरी</string>
+    <string name="next">अगला</string>
+    <string name="total_score">कुल स्कोर</string>
+    <string name="finish">खत्म हो</string>
+    <string name="incorrect_answers">गलत उत्तर</string>
+    <string name="correct_answers">सही उत्तर</string>
+    <string name="attended_questions">उपस्थित प्रश्न</string>
+    <string name="correct_answer_status">बहुत बढ़िया! आपका उत्तर सही है।</string>
+    <string name="wrong_answer_status">उफ़! आपका उत्तर गलत है।</string>
+    <string name="time_over_status">समय समाप्त हो गया है, आप प्रश्नों का उत्तर नहीं दे सकते।</string>
+    <string name="level_complete">बधाई हो! \nआपने स्तर पूरा कर लिया है।</string>
+    <string name="level_incomplete">उफ़!!! \nआपने स्तर पूरा नहीं किया है।</string>
+    <string name="point_earned">अंक अर्जित किया।</string>
+    <string name="rank">पद</string>
+    <string name="coins">सिक्के</string>
+    <string name="score">स्कोर</string>
+    <string name="let_me_recommend_you_this_application">मैं आपको इस एप्लिकेशन की अनुशंसा करता हूं : </string>
+    <string name="my_scorecard">मेरा स्कोरकार्ड</string>
+    <string name="level_rank">स्तर रैंक : </string>
+    <string name="name">नाम : </string>
+    <string name="level_number">स्तर : </string>
+    <string name="level_score">स्तर स्कोर : </string>
+    <string name="share_with">के साथ शेयर करें</string>
+    <string name="today">आज में</string>
+    <string name="all">सभी में</string>
+    <string name="month">महीने में</string>
+    <!--Question and Level END-->
+
+    <!--Payment Activity START-->
+    <string name="payment_methods">भुगतान की विधि</string>
+    <string name="choose_a_payment_methods_to_pay">भुगतान करने के लिए भुगतान के तरीके चुनें।</string>
+    <string name="pay_with">के साथ भुगतान करें</string>
+    <string name="Continue">जारी रखें</string>
+    <string name="paypal">PayPal</string>
+    <string name="razorpay">RazorPay</string>
+    <string name="paytm">Paytm</string>
+    <string name="upi">UPI</string>
+    <string name="flutterwave">Flutterwave</string>
+    <string name="payumoney">PayUMoney</string>
+    <!--Payment Activity END-->
+
+    <!-- youtube START -->
+    <string name="youtube_api_key">AIzaSyAaJX_VFOEO48pVL-YidlEaJgRp9EmDaAw</string>
+    <string name="error_player">YouTubePlayer (%1$s) को प्रारंभ करने में त्रुटि हुई थी।</string>
+    <string name="loading_video">वीडियो लोड हो रहा है...</string>
+    <!-- youtube END -->
+
+    <!-- Settings START -->
+    <string name="app_language">ऐप भाषा</string>
+    <string name="push_notification">पुश अधिसूचना सक्षम करें</string>
+    <string name="rate_app">एप्प का मूल्यांकन</string>
+    <string name="share_app">ऐप शेयर करें</string>
+    <string name="share">शेयर</string>
+    <string name="about_app">ऐप के बारे में</string>
+    <string name="privacy">एकांत</string>
+    <string name="profile">प्रोफ़ाइल</string>
+    <string name="Enable_Sound">ध्वनि सक्षम</string>
+    <string name="Enable_Vibration">कंपन सक्षम करें</string>
+    <string name="logout">लॉग आउट</string>
+    <string name="log_in">लॉग इन करें</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="company">कंपनी</string>
+    <string name="contact">संपर्क करें</string>
+    <string name="website">वेबसाइट</string>
+    <string name="are_you_sure_you_want_to_logout">क्या आप लॉग आउट करना चाहते हैं ?</string>
+    <string name="about_us">हमारे बारे में।</string>
+    <string name="language_already_selected">भाषा पहले ही चुनी जा चुकी है!</string>
+    <!-- Settings END -->
+
+    <!--Withdrawal START-->
+    <string name="Withdrawal">निकासी</string>
+    <string name="withdraw_request">निकासी अनुरोध</string>
+    <string name="points">अंक</string>
+    <string name="withdrawal_history">निकासी इतिहास</string>
+    <string name="minimum">*न्यूनतम</string>
+    <string name="minimum_points_required">निकासी अनुरोध के लिए आवश्यक अंक।</string>
+    <string name="withdraw_request_warning">क्षमा करें, आपके पास निकासी अनुरोध के लिए पर्याप्त अंक नहीं हैं।</string>
+    <string name="select_payment_type">भुगतान प्रकार चुनें</string>
+    <string name="paytm_withdraw"> Paytm</string>
+    <string name="paypal_withdraw"> Paypal</string>
+    <string name="wiretransfer_bank_details">WireTransfer / Bank Details</string>
+    <string name="enter_payment_details">भुगतान विवरण दर्ज करें।</string>
+    <string name="submit">प्रस्तुत</string>
+    <string name="please_select_payment_method">कृपया भुगतान विधि चुनें।</string>
+    <string name="please_enter_payment_details">कृपया भुगतान विवरण दर्ज करें।</string>
+    <!--Withdrawal END-->
+
+    <string name="viewAll">सभी को देखें</string>
+    <string name="see_all">सभी देखें</string>
+    <string name="show_more">और दिखाओ</string>
+    <string name="show_less">कम दिखाएं</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="update">अपडेट करें</string>
+    <string name="Submit">प्रस्तुत</string>
+    <string name="reset">रीसेट</string>
+    <string name="level">स्तर</string>
+    <string name="duration">समयांतराल</string>
+
+    <string name="pending">अपूर्ण</string>
+    <string name="completed">पूरा हुआ</string>
+    <string name="Term_and_conditions">नियम और शर्तें</string>
+    <string name="apply">लागू</string>
+    <string name="price">कीमत</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632145227488",
+    "project_id": "myapp-e3d24",
+    "storage_bucket": "myapp-e3d24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632145227488:android:7dd1f965dcb767d517ea85",
+        "android_client_info": {
+          "package_name": "com.divinetechs.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632145227488-2rfqvdh74704kd5curd0ti14o6ulr2ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfKnQO2Rmiy6PkX3A3YNAR0xs-GzYcIjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632145227488-2rfqvdh74704kd5curd0ti14o6ulr2ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

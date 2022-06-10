@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق مسابقة</string>
+
+    <!--Main Activity-->
+    <string name="Play_Quiz">تشغيل مسابقة</string>
+    <string name="Leaderboard">ليدربورد</string>
+    <string name="Instruction">تعليمات</string>
+    <string name="User_Profile">ملف تعريفي للمستخدم</string>
+    <string name="Settings">إعدادات</string>
+    <string name="do_you_want_to_exit">هل تريد الخروج؟</string>
+    <string name="yes">نعم.</string>
+    <string name="no">لا.</string>
+
+    <!--Welcome START-->
+    <string name="sorry_not_connected_to_internet">آسف! غير متصل بالإنترنت.</string>
+    <string name="welcome_slides">الشاشة الرئيسية</string>
+    <string name="skip">يتخطى</string>
+    <string name="start">ابدأ</string>
+    <string name="slide_1_title">مسابقة عبر الإنترنت</string>
+    <string name="slide_1_desc">لوريم إيبسوم هو ببساطة نص شكلي يستخدم في صناعة الطباعة والتنضيد. لوريم إيبسوم هو النص الوهمي القياسي في الصناعة منذ القرن الخامس عشر الميلادي.</string>
+    <string name="slide_2_title">Win prizes</string>
+    <string name="slide_2_desc">لوريم إيبسوم هو ببساطة نص شكلي يستخدم في صناعة الطباعة والتنضيد. لوريم إيبسوم هو النص الوهمي القياسي في الصناعة منذ القرن الخامس عشر الميلادي.</string>
+    <string name="welcome_to_learning_app">مرحبًا بك في تطبيق Quiz</string>
+    <string name="Lorem_Ipsum">لوريم إيبسوم هو ببساطة نص شكلي يستخدم في صناعة الطباعة والتنضيد. لوريم إيبسوم هو النص الوهمي القياسي في الصناعة منذ القرن الخامس عشر الميلادي.</string>
+    <!--Welcome END-->
+
+    <!--Network and Permission-->
+    <string name="permission_desc">نحتاج الآن إلى إذنك لمواصلة استخدام التطبيق بشكل مثالي.</string>
+    <string name="permission_title">كل شيء على ما يرام.</string>
+    <string name="isRTL">حقيقية</string>
+    <string name="internet_error">خطأ في الاتصال بالشبكة !!!</string>
+    <string name="permission_necessary">إذن ضروري</string>
+    <string name="storage_permission_is_necessary_to_wrote_event">إذن التخزين ضروري لقراءة وكتابة الحدث.</string>
+
+    <!--Login, Register & OTP verification details START-->
+    <string name="hello">مرحبا،</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="email">بريد إلكتروني</string>
+    <string name="email_address">عنوان البريد الإلكتروني</string>
+    <string name="email_address_with_star">عنوان الايميل *</string>
+    <string name="password">كلمه السر *</string>
+    <string name="userName">اسم المستخدم *</string>
+    <string name="phone_number">رقم الهاتف *</string>
+    <string name="enter_email">أدخل البريد الإلكتروني.</string>
+    <string name="enter_password">أدخل كلمة المرور.</string>
+    <string name="enter_phone_number">أدخل رقم الهاتف.</string>
+    <string name="enter_username">ادخل اسم المستخدم.</string>
+    <string name="forgot_password">نسيت رقمك السري ؟</string>
+    <string name="okay">تمام!</string>
+    <string name="please_wait">أرجو الإنتظار...</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="sign_up">اشتراك</string>
+    <string name="already_have_an_account">هل لديك حساب ؟</string>
+    <string name="do_not_have_an_account">ليس لديك حساب؟</string>
+    <string name="or_Login_using_Social_Media">أو تسجيل الدخول باستخدام وسائل التواصل الاجتماعي</string>
+    <string name="register">يسجل</string>
+    <string name="register_now">سجل الان</string>
+    <string name="sign_in_with_mobile_no">تسجيل الدخول باستخدام رقم الهاتف المحمول</string>
+    <string name="google">جوجل</string>
+    <string name="facebook">موقع التواصل الاجتماعي الفيسبوك</string>
+    <string name="full_name">الاسم بالكامل</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="forgot_password_title">هل نسيت كلمة السر</string>
+    <string name="new_password_have_been_send_to_register_email_address">تم إرسال كلمة المرور الجديدة لتسجيل عنوان البريد الإلكتروني.</string>
+    <string name="mobile_no">رقم الهاتف المحمول</string>
+    <string name="otp_verification">التحقق من OTP</string>
+    <string name="enter_your_mobile_no">أدخل رقم هاتفك المحمول</string>
+    <string name="you_will_receive_a_4_digit_code_to_verify_next">سوف تتلقى رمزًا مكونًا من 4 أرقام \ n للتحقق بعد ذلك.</string>
+    <string name="send_otp">إرسال OTP</string>
+    <string name="enter_otp_code_to_sent_to_mobile_no">أدخل رمز OTP لإرساله \ n إلى رقم الهاتف المحمول.</string>
+    <string name="verify_and_proceed">تحقق وأمبير. تقدم</string>
+    <string name="send">إرسال.</string>
+    <!--Login, Register & OTP verification details END-->
+
+    <!--Question and Level START-->
+    <string name="home">منزل، بيت</string>
+    <string name="answer_it">الإجابة عليه</string>
+    <string name="play_next_level">لعب المستوى التالي</string>
+    <string name="select_level">اختار مستوى</string>
+    <string name="category">فئة</string>
+    <string name="questions">أسئلة</string>
+    <string name="question">سؤال</string>
+    <string name="right">حق</string>
+    <string name="wrong">خاطئ</string>
+    <string name="please_select_any_option">من فضلك ، حدد أي خيار.</string>
+    <string name="Share_result">نتيجة المشاركة</string>
+    <string name="Statistics">إحصائيات</string>
+    <string name="leaderboard">ليدربورد</string>
+    <string name="Rank_of_medal">رتبة الميدالية</string>
+    <string name="Recent_quiz">مسابقة حديثة</string>
+    <string name="next">التالي</string>
+    <string name="total_score">مجموع النقاط</string>
+    <string name="finish">ينهي</string>
+    <string name="incorrect_answers">إجابات غير صحيحة</string>
+    <string name="correct_answers">الإجابات الصحيحة</string>
+    <string name="attended_questions">الأسئلة التي حضرها</string>
+    <string name="correct_answer_status">أحسنت! إجابتك صحيحة.</string>
+    <string name="wrong_answer_status">وجه الفتاة! إجابتك خاطئة.</string>
+    <string name="time_over_status">انتهى الوقت ، لا يمكنك الإجابة على الأسئلة / الأسئلة.</string>
+    <string name="level_complete">تهانينا! \ n لقد أكملت المستوى.</string>
+    <string name="level_incomplete">وجه الفتاة!!! \ n لم تكمل المستوى.</string>
+    <string name="point_earned">تم الحصول على نقطة.</string>
+    <string name="rank">رتبة</string>
+    <string name="coins">عملات معدنية</string>
+    <string name="score">نتيجة</string>
+    <string name="let_me_recommend_you_this_application">دعني أوصيك بهذا التطبيق : </string>
+    <string name="my_scorecard">بطاقة النقاط الخاصة بي</string>
+    <string name="level_rank">رتبة المستوى : </string>
+    <string name="name">اسم : </string>
+    <string name="level_number">مستوى : </string>
+    <string name="level_score">نقاط المستوى : </string>
+    <string name="share_with">شارك مع</string>
+    <!--Question and Level END-->
+
+    <!--Payment Activity START-->
+    <string name="payment_methods">طرق الدفع</string>
+    <string name="choose_a_payment_methods_to_pay">اختر طرق الدفع للدفع.</string>
+    <string name="pay_with">ادفع عن طريق</string>
+    <string name="Continue">يكمل</string>
+    <string name="paypal">PayPal</string>
+    <string name="razorpay">RazorPay</string>
+    <string name="paytm">Paytm</string>
+    <string name="upi">UPI</string>
+    <string name="flutterwave">Flutterwave</string>
+    <string name="payumoney">PayUMoney</string>
+    <!--Payment Activity END-->
+
+    <!-- youtube START -->
+    <string name="youtube_api_key">AIzaSyAaJX_VFOEO48pVL-YidlEaJgRp9EmDaAw</string>
+    <string name="error_player">حدث خطأ أثناء بدء تشغيل YouTubePlayer (٪ 1 $ s).</string>
+    <string name="loading_video">تحميل الفيديو...</string>
+    <!-- youtube END -->
+
+    <!-- Settings START -->
+    <string name="app_language">لغة التطبيق</string>
+    <string name="push_notification">تفعيل دفع الإعلام</string>
+    <string name="rate_app">قيم التطبيق</string>
+    <string name="share_app">شارك التطبيق</string>
+    <string name="share">يشارك</string>
+    <string name="about_app">حول التطبيق</string>
+    <string name="privacy">خصوصية</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="Enable_Sound">تمكين الصوت</string>
+    <string name="Enable_Vibration">تمكين الاهتزاز</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="log_in">تسجيل الدخول</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="company">شركة</string>
+    <string name="contact">اتصال</string>
+    <string name="website">موقع إلكتروني</string>
+    <string name="are_you_sure_you_want_to_logout">هل أنت متأكد أنك تريد تسجيل الخروج ؟</string>
+    <string name="about_us">معلومات عنا</string>
+    <string name="language_already_selected">اللغة المختارة بالفعل!</string>
+    <string name="today">اليوم</string>
+    <string name="all">الجميع</string>
+    <string name="month">شهر</string>
+    <!-- Settings END -->
+
+    <!--Withdrawal START-->
+    <string name="Withdrawal">انسحاب</string>
+    <string name="withdraw_request">طلب سحب</string>
+    <string name="points">نقاط</string>
+    <string name="withdrawal_history">تاريخ السحب</string>
+    <string name="minimum">*الحد الأدنى</string>
+    <string name="minimum_points_required">النقاط المطلوبة لطلب السحب.</string>
+    <string name="withdraw_request_warning">عذرا ، ليس لديك نقاط كافية لطلب السحب.</string>
+    <string name="select_payment_type">اختر طريقة الدفع</string>
+    <string name="paytm_withdraw"> باوتم</string>
+    <string name="paypal_withdraw">باي بال</string>
+    <string name="wiretransfer_bank_details">حوالة مصرفية / تفاصيل البنك</string>
+    <string name="enter_payment_details">أدخل تفاصيل الدفع</string>
+    <string name="submit">إرسال</string>
+    <string name="please_select_payment_method">الرجاء تحديد طريقة الدفع.</string>
+    <string name="please_enter_payment_details">الرجاء إدخال تفاصيل الدفع.</string>
+    <!--Withdrawal END-->
+
+    <string name="viewAll">مشاهدة الكل</string>
+    <string name="see_all">اظهار الكل</string>
+    <string name="show_more">أظهر المزيد</string>
+    <string name="show_less">تظهر أقل</string>
+    <string name="cancel">إلغاء</string>
+    <string name="update">تحديث</string>
+    <string name="Submit">إرسال</string>
+    <string name="reset">إعادة تعيين</string>
+    <string name="level">مستوى</string>
+    <string name="duration">مدة</string>
+
+    <string name="pending">ريثما</string>
+    <string name="completed">مكتمل</string>
+    <string name="Term_and_conditions">الشروط والأحكام</string>
+    <string name="apply">تطبيق</string>
+    <string name="price">سعر</string>
+</resources>
